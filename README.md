@@ -1,13 +1,13 @@
 ## Bonjour tout le monde !  👋
 
-Actuellement en train d'apprendre de le Dev Web !
+Actuellement en train d'apprendre le Dev Web !
 J'ai suivie une formation avec OpenClassroom dans laquelle j'ai pu faire quelques projets que vous pouvez retrouver dans mes repo ✨ !
 
 En ce moment, je travaille sur plusieurs projets, certains personnels et d'autre dont j'espère qu'ils veront le jour.
 Et oui! Je ne m'arrête pas aux projets en HTML, CSS et JS! Voici un aperçu :
 
 + Rolly : un bot discord pour lancer des dés pour de futur partie de JDR
-+ Mori : Une petite application pomodoro pour le bureau
++ [Mori](https://github.com/AnnabelleMaufroy/Mori) : Une petite application timer/pomodoro pour le bureau
 + Cauldron chef : Un pixel game avec beaucoup de nourriture, crée avec Game Maker ! Notre site : A venir...
 
 Vous voulez me contacter? rendez-vous sur mon portfolio (lien à venir!)
@@ -23,7 +23,7 @@ Currently, i'm working on a few project, some personnal and other which i hope w
 Yup, i'm not stopping at HTML, CSS and JS project! There a few snip :
 
 + Rolly : a discord bot to roll dice for futur RPG game
-+ Mori : A little pomodoro app for desktop
++ [Mori](https://github.com/AnnabelleMaufroy/Mori) : A little pomodoro app for desktop
 + Cauldron chef: A pixel game with a lot of food, create on Game Maker ! Our website : Coming soon...
 
 Want to contact me ? Visit my portfolio (link coming soon!)
