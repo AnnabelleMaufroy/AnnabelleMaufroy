@@ -1,7 +1,7 @@
 ## Bonjour tout le monde ! 👋
 
 
-Je suis actuellement en formation pour devenir développeuse web !  
+Je suis actuellement en recherche d'emploie pour du Developpement Web !  
 J'ai suivi une formation avec OpenClassrooms, où j'ai pu réaliser plusieurs projets que vous pouvez retrouver dans mes dépôts ✨
 
 En ce moment, je travaille sur plusieurs projets : certains personnels, d'autres que j'espère voir se concrétiser un jour.  
@@ -18,7 +18,7 @@ Et oui, je ne m'arrête pas au HTML, CSS et JS ! Voici un petit aperçu :
 ___
 ## Hello everyone! 👋
 
-Currently learning Web Development for a future career!  
+Currently searching a Web Development Job !
 I followed a Web Development course with OpenClassrooms where I built several projects — you can check them out in my repositories ✨
 
 Right now, I'm working on a few personal projects and others I hope to bring to life someday.  
